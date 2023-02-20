@@ -1,2 +1,2 @@
-# HartisConsulting
+# ColourClawMockups
 Meta and SEO Analysis
